@@ -3,6 +3,9 @@ https://drive.google.com/file/d/1vBLCmDHrwH17iI6CGZEEc4HXWGcRk2RA/view?usp=drive
 
 https://drive.google.com/file/d/140tnBubo7yRJvWoqYl0Dj7MMIFq6pfXw/view?usp=drivesdk
 
+
+###21th_robit_avr1
+
 ##ADC의 기본 역할과 구조
 아날로그를 디지털로 변환한다. 센서 등에서 들어오는 연속적인 아날로그 전압을 마이크로컨트롤러가 읽을 수 있는 10비트 디지털 숫자로 바꾼다. 아날로그 입력(PORTF)을 받는 전용핀 (PF0~PF7)이 있고, 각각 ADC0~ADC7 채널과 연결되어 있다. 입력모드로는 단일 입력 모드와 차동 입력 모드가 있다. 단일 입력 모드는 특정핀의 전압을 GND(0V)와 비교해 큭정하고, 차동 입력 모드는 두 입력핀 사이의 전압 차이를 측정한다. 
 
