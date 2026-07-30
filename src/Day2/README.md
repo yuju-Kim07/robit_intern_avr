@@ -1,7 +1,7 @@
 Task 01
-https://drive.google.com/file/d/1vBLCmDHrwH17iI6CGZEEc4HXWGcRk2RA/view?usp=drivesdk
+https://drive.google.com/file/d/1KqixznUH2gu_NiTg0f6lg45SEVK8wbow/view
 Task 02
-https://drive.google.com/file/d/140tnBubo7yRJvWoqYl0Dj7MMIFq6pfXw/view?usp=drivesdk
+https://drive.google.com/file/d/1X6fyB-UQijdK4kBtYDTWJHpE4PiDxCGm/view
 
 
 ###21th_robit_avr1
