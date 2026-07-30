@@ -1,10 +1,11 @@
-
+Task 01
 https://drive.google.com/file/d/1vBLCmDHrwH17iI6CGZEEc4HXWGcRk2RA/view?usp=drivesdk
-
+Task 02
 https://drive.google.com/file/d/140tnBubo7yRJvWoqYl0Dj7MMIFq6pfXw/view?usp=drivesdk
 
 
 ###21th_robit_avr1
+
 
 ##ADC의 기본 역할과 구조
 
